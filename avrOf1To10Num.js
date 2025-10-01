@@ -6,3 +6,4 @@ for(i=1;i<51;i++) {
 }
 console.log("avarage of " +sum+" is " + sum/divider)
 console.log("The divider is "+divider)
+
